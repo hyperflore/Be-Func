@@ -1,6 +1,6 @@
 {
     "name": "be-func",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "description": "Be Func: the Be Themer plugins without the theme effects. Keeps Meow and Owlie, no splash, no custom CSS.",
     "private": true,
     "license": "MIT",
